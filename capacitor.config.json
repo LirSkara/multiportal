@@ -1,0 +1,6 @@
+{
+  "appId": "ru.tutportal.multiportal",
+  "appName": "Тут Портал",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
